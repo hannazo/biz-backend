@@ -49,4 +49,4 @@ Please follow [Contributor Covenant](https://www.contributor-covenant.org/) Code
   
 ## Questions
   
-Open an issue if you have any questions about the repoor. You can find more of my work [here](https://github.com/hannazo).
+Open an issue if you have any questions about the repo. You can find more of my work [here](https://github.com/hannazo).
